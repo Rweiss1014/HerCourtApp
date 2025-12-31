@@ -1,0 +1,1 @@
+import"https://cdn.jsdelivr.net/npm/sharer.js@0.5.2/sharer.min.js";
