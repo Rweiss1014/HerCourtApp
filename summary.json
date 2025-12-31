@@ -1,0 +1,14 @@
+{
+  "url": "https://talkingparents.com",
+  "scraped_at": "2025-12-31T17:28:53.975708",
+  "pages_scraped": 99,
+  "images_found": 807,
+  "images_downloaded": 807,
+  "css_files_downloaded": 7,
+  "js_files_downloaded": 26,
+  "errors": 12,
+  "output_dir": "C:\\Website_AchairAffair\\scraper-app\\scrapes\\talkingparents.com_92b2259c",
+  "folder_name": "talkingparents.com_92b2259c",
+  "used_selenium": false,
+  "downloaded_assets": true
+}
